@@ -8,3 +8,9 @@ A **Staff Engineer** with a passion for building systems that can handle anythin
 - **Building APIs that just *work* (and keep working under pressure)**
 
 I love tackling big challenges and pushing boundaries to bring new ideas to life. If it’s mission-critical, high-traffic, and needs to be rock-solid, I’m in! Let’s build the future, one system at a time. 🌐
+
+
+### Metrics
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
