@@ -10,7 +10,5 @@ A **Staff Engineer** with a passion for building systems that can handle anythin
 I love tackling big challenges and pushing boundaries to bring new ideas to life. If it’s mission-critical, high-traffic, and needs to be rock-solid, I’m in! Let’s build the future, one system at a time. 🌐
 
 
-### Metrics
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+## Stats
+<img src="https://gist.githubusercontent.com/rodrigoluizs/d8b505bb2bf436dd9d949c5723d294b0/raw/f185d541d4eb5c0a64acb2e86e1d703632014a15/github-metrics.svg" alt="Metrics" width="100%">
