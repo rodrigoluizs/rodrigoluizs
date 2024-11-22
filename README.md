@@ -11,4 +11,4 @@ I love tackling big challenges and pushing boundaries to bring new ideas to life
 
 
 ## Stats
-<img src="https://gist.githubusercontent.com/rodrigoluizs/d8b505bb2bf436dd9d949c5723d294b0/raw/f185d541d4eb5c0a64acb2e86e1d703632014a15/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://gist.githubusercontent.com/rodrigoluizs/d8b505bb2bf436dd9d949c5723d294b0/raw/github-metrics.svg" alt="Metrics" width="100%">
