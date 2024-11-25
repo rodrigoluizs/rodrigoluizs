@@ -1,14 +1,13 @@
-# 👋 Hey there! I’m Rodrigo
+# 👋 Hi, I’m Rodrigo!
 
-A **Staff Engineer** with a passion for building systems that can handle anything you throw at them. Over the past **10+ years**, I’ve been designing high-availability, high-traffic architectures that keep things running smoothly, no matter the scale.
+I build systems that work—and keep working, no matter what. For the past 10+ years, I’ve been designing systems that can handle heavy load and do not fall apart under pressure. I enjoy solving complicated problems and keeping things simple. If the challenge is big, I’m in. Currently working as a **Staff Engineer**.
 
-### 💻 What I’m All About:
-- **Crafting resilient cloud architectures**
-- **Making microservices play nice together**
-- **Building APIs that just *work* (and keep working under pressure)**
+### 💻 What I Do:
+- Create systems that scale nicely
+- Make microservices work well together
+- Build APIs that handle heavy use without breaking
+- Try to give back to the community as much as I can
 
-I love tackling big challenges and pushing boundaries to bring new ideas to life. If it’s mission-critical, high-traffic, and needs to be rock-solid, I’m in! Let’s build the future, one system at a time. 🌐
-
-
-## Stats
-<img src="https://gist.githubusercontent.com/rodrigoluizs/d8b505bb2bf436dd9d949c5723d294b0/raw/github-metrics.svg" alt="Metrics" width="100%">
+<div align="center">
+  <img src="https://gist.githubusercontent.com/rodrigoluizs/d8b505bb2bf436dd9d949c5723d294b0/raw/github-metrics.svg" alt="Metrics" width="80%">
+</div>
