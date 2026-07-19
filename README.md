@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rodrigo!
 
-Principal Engineer @Bonial
+Principal Engineer @Bonial;
 Introducing technical debt for 15+ years.
 
 <div align="center">
